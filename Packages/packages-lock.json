@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.soggyinkgames.package-inventorsvisualeffects": {
-      "version": "file:com.soggyinkgames.package-inventors",
+      "version": "file:com.soggyinkgames.package-inventorsvisualeffects",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
